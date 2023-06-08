@@ -1,5 +1,5 @@
 # ALIŞTIRMA :
-## 
+* 1'den 999'a kadarki hangi sayının armstrong sayı olup olmadığını ekrana yazdırma
 ```
 public class deneme {
     public static void main(String[] args){
